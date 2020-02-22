@@ -1,5 +1,5 @@
 # Multilinear Compressive Learning with Prior Knowledge
-arXiv:
+arXiv: [https://arxiv.org/abs/2002.07203](https://arxiv.org/abs/2002.07203)
 
 What is Multilinear Compressive Learning?
 ------------------------------------------
